@@ -107,7 +107,7 @@ You can run Sherlock in the cloud without installation using the [Sherlock Actor
 $ echo '{"usernames":["user123"]}' | apify call -so netmilk/sherlock
 [{
   "username": "user123",
-  "links": [
+  "links": [https://www.instagram.com/aylinhdz._?igsh=MThoZmc1dTJ6MmM0Zg==
     "https://www.1337x.to/user/user123/",
     ...
   ]
