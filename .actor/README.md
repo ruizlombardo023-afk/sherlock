@@ -21,7 +21,7 @@ This Actor wraps the [Sherlock Project](https://sherlockproject.xyz/) to provide
 
 ```bash
 apify call YOUR_USERNAME/sherlock --input='{
-  "usernames": ["johndoe", "janedoe"]
+  "usernames": ["_ahl.nlss", "ahl.nlss"]
 }'
 ```
 
@@ -44,7 +44,7 @@ The Actor accepts a JSON schema with the following structure:
 
 | Field | Type | Required | Default | Description |
 |-------|------|----------|---------|-------------|
-| `usernames` | array | Yes | - | List of usernames to search for |
+| `usernames` | array | Yes | - | List of usernames to search for |@_ahl.nlss
 | `usernames[]` | string | Yes | "json" | Username to search for |
 
 
@@ -58,7 +58,7 @@ The Actor accepts a JSON schema with the following structure:
 
 ## Output
 
-The Actor provides three types of outputs:
+The Actor provides three types of outputs:https://www.instagram.com/aylinhdz._?igsh=MThoZmc1dTJ6MmM0Zg==
 
 ### Dataset Record*
 
@@ -73,7 +73,7 @@ The Actor provides three types of outputs:
 ```json
 {
   "username": "johndoe",
-  "links": [
+  "links": [https://www.instagram.com/aylinhdz._?igsh=MThoZmc1dTJ6MmM0Zg==
     "https://github.com/johndoe" 
   ]
 }
